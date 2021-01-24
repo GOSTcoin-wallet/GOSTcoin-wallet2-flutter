@@ -1,3 +1,7 @@
+# To be a GOSTcoin wallet
+
+Older info below. To be edited.
+
 # Kalium - BANANO Mobile Wallet
 
 [![GitHub release (latest)](https://img.shields.io/github/v/release/BananoCoin/kalium_wallet_flutter)](https://github.com/BananoCoin/kalium_wallet_flutter/releases) [![License](https://img.shields.io/github/license/BananoCoin/kalium_wallet_flutter)](https://github.com/BananoCoin/kalium_wallet_flutter/blob/master/LICENSE) [![CI](https://github.com/BananoCoin/kalium_wallet_flutter/workflows/CI/badge.svg)](https://github.com/BananoCoin/kalium_wallet_flutter/actions?query=workflow%3ACI) [![Twitter Follow](https://img.shields.io/twitter/follow/bananocoin?style=social)](https://twitter.com/intent/follow?screen_name=bananocoin)
